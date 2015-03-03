@@ -1,3 +1,12 @@
+libkmahjongg (4:14.12.50-0ubuntu1) UNRELEASED; urgency=medium
+
+  * KDE Frameworks 5 port
+    + Rename all libraries to match new sonames
+    + Give the data package a kf5 suffix as to not conflict with
+      the kdelibs4 version which has different paths but the same assets
+
+ -- Harald Sitter <sitter@kde.org>  Tue, 03 Mar 2015 13:15:12 +0100
+
 libkmahjongg (4:14.12.2-1) experimental; urgency=medium
 
   * New upstream release (14.12.2).

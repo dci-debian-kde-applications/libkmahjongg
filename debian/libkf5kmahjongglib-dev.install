@@ -1,0 +1,3 @@
+usr/include/*
+usr/lib/*/cmake/KF5KMahjongglib/*
+usr/lib/*/libKF5KMahjongglib.so

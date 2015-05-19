@@ -10,12 +10,21 @@ Uploaders: Daniel Schepler <schepler@debian.org>,
            Eshat Cakar <info@eshat.de>,
            Lisandro Damián Nicanor Pérez Meyer <lisandro@debian.org>,
            Maximiliano Curia <maxy@debian.org>
-Build-Depends: cmake,
+Build-Depends: cmake (>= 2.8.12~),
                debhelper (>= 9),
+               extra-cmake-modules (>= 1.3.0~),
                kde-sc-dev-latest (>= 4:4.11),
                kdelibs5-dev (>= 4:4.14),
                libkdegames-dev (>= 4:14.12.2),
-               pkg-kde-tools (>= 0.14)
+               libkf5completion-dev,
+               libkf5config-dev,
+               libkf5configwidgets-dev,
+               libkf5coreaddons-dev,
+               libkf5i18n-dev,
+               libkf5widgetsaddons-dev,
+               libqt5svg5-dev (>= 5.2.0~),
+               pkg-kde-tools (>= 0.14),
+               qtbase5-dev (>= 5.2.0~)
 Standards-Version: 3.9.6
 XS-Testsuite: autopkgtest
 Homepage: http://games.kde.org/

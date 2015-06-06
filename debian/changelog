@@ -1,4 +1,4 @@
-libkmahjongg (4:15.04.1-0ubuntu1) UNRELEASED; urgency=medium
+libkmahjongg (4:15.04.2-0ubuntu1) UNRELEASED; urgency=medium
 
   [ Harald Sitter ]
   * KDE Frameworks 5 port
@@ -11,7 +11,10 @@ libkmahjongg (4:15.04.1-0ubuntu1) UNRELEASED; urgency=medium
   * New upstream release
   * Vivid backport
 
- -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 27 May 2015 09:15:08 -0700
+  [ Jonathan Riddell ]
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Sat, 06 Jun 2015 02:19:30 +0200
 
 libkmahjongg (4:14.12.2-1) experimental; urgency=medium
 

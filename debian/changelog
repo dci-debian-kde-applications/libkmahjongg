@@ -5,6 +5,12 @@ libkmahjongg (4:15.08.0-1~) UNRELEASED; urgency=medium
 
  -- Maximiliano Curia <maxy@debian.org>  Tue, 01 Sep 2015 13:48:45 +0200
 
+libkmahjongg (4:14.12.3-2) unstable; urgency=medium
+
+  * Migrate to unstable.
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 01 Sep 2015 16:23:00 +0200
+
 libkmahjongg (4:14.12.3-1) experimental; urgency=medium
 
   * New upstream release (14.12.3).

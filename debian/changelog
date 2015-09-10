@@ -5,6 +5,36 @@ libkmahjongg (4:15.08.0-1~) UNRELEASED; urgency=medium
 
  -- Maximiliano Curia <maxy@debian.org>  Tue, 01 Sep 2015 13:48:45 +0200
 
+libkmahjongg (4:15.08.0-0ubuntu1) wily; urgency=medium
+
+  * new upstream release
+
+ -- Clive Johnston <clivejo@aol.com>  Wed, 26 Aug 2015 17:50:14 +0100
+
+libkmahjongg (4:15.07.90-0ubuntu1) wily; urgency=medium
+
+  * new upstream beta release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 18 Aug 2015 11:26:31 +0100
+
+libkmahjongg (4:15.04.2-0ubuntu1) wily; urgency=medium
+
+  [ Harald Sitter ]
+  * KDE Frameworks 5 port
+    + Rename all libraries to match new sonames
+    + Give the data package a kf5 suffix as to not conflict with
+      the kdelibs4 version which has different paths but the same assets
+
+  [ Scarlett Clark ]
+  * New upstream release
+  * New upstream release
+  * Vivid backport
+
+  [ Jonathan Riddell ]
+  * New upstream release
+
+ -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 09 Jun 2015 22:30:31 +0200
+
 libkmahjongg (4:14.12.3-2) unstable; urgency=medium
 
   * Migrate to unstable.

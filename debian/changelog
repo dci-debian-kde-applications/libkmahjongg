@@ -1,9 +1,9 @@
-libkf5kmahjongg (15.08.0-1~) UNRELEASED; urgency=medium
+libkf5kmahjongg (15.08.0-1) unstable; urgency=medium
 
   * New upstream release (15.04.0).
   * New upstream release (15.08.0).
 
- -- Maximiliano Curia <maxy@debian.org>  Tue, 01 Sep 2015 13:48:45 +0200
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 10 Sep 2015 17:30:20 +0200
 
 libkmahjongg (4:15.08.0-0ubuntu1) wily; urgency=medium
 

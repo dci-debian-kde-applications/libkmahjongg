@@ -1,3 +1,9 @@
+libkf5kmahjongg (15.12.1-1~) UNRELEASED; urgency=medium
+
+  * New upstream release (15.12.1).
+
+ -- Maximiliano Curia <maxy@debian.org>  Fri, 29 Jan 2016 11:12:04 +0100
+
 libkf5kmahjongg (15.08.3-1) unstable; urgency=medium
 
   * New upstream release (15.08.3).

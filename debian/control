@@ -48,16 +48,6 @@ Description: development files for the KDE kmahjongg library
  .
  This package is part of the KDE games module.
 
-Package: libkf5kmahjongglib-dbg
-Architecture: any
-Priority: extra
-Section: debug
-Depends: libkf5kmahjongglib5 (= ${binary:Version}), ${misc:Depends}
-Description: debugging symbols for the KDE kmahjongg library
- This package contains the debugging symbols of the KDE kmahjongg library.
- .
- This package is part of the KDE games module.
-
 Package: kdegames-mahjongg-data-kf5
 Section: games
 Architecture: all

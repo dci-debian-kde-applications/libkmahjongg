@@ -7,6 +7,12 @@ libkf5kmahjongg (16.04.0-1~1.gbpbd9caa) UNRELEASED; urgency=medium
 
  -- Automatic packaging <jenkins@amadeus.gnuservers.com.ar>  Thu, 21 Apr 2016 01:55:18 +0200
 
+libkf5kmahjongg (15.12.2-1~) UNRELEASED; urgency=medium
+
+  * New upstream release (15.12.2).
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 13 Feb 2016 09:48:17 +0100
+
 libkf5kmahjongg (15.12.1-1) experimental; urgency=medium
 
   * New upstream release (15.12.1).

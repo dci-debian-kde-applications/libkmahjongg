@@ -1,6 +1,11 @@
-libkmahjongg (4:15.12.0-0ubuntu1) UNRELEASED; urgency=medium
+libkmahjongg (4:15.12.1-0ubuntu1) UNRELEASED; urgency=medium
 
+  [ Clive Johnston ]
   * New upstream release
+
+  [ Scarlett Clark ]
+  * Debian merge: No remaining changes.
+  * New upstream release. 
 
  -- Clive Johnston <clivejo@aol.com>  Sat, 02 Jan 2016 14:34:27 +0000
 

@@ -23,6 +23,25 @@ libkmahjongg (4:15.08.1-0ubuntu1) wily; urgency=medium
 
  -- Clive Johnston <clivejo@aol.com>  Tue, 22 Sep 2015 17:41:53 +0100
 
+libkf5kmahjongg (15.08.3-1) unstable; urgency=medium
+
+  * New upstream release (15.08.3).
+
+ -- Maximiliano Curia <maxy@debian.org>  Wed, 02 Dec 2015 12:39:00 +0100
+
+libkf5kmahjongg (15.08.1-1) unstable; urgency=medium
+
+  * New upstream release (15.08.1).
+
+ -- Maximiliano Curia <maxy@debian.org>  Sat, 19 Sep 2015 02:44:54 +0200
+
+libkf5kmahjongg (15.08.0-1) unstable; urgency=medium
+
+  * New upstream release (15.04.0).
+  * New upstream release (15.08.0).
+
+ -- Maximiliano Curia <maxy@debian.org>  Thu, 10 Sep 2015 17:30:20 +0200
+
 libkmahjongg (4:15.08.0-0ubuntu1) wily; urgency=medium
 
   * new upstream release
@@ -52,6 +71,18 @@ libkmahjongg (4:15.04.2-0ubuntu1) wily; urgency=medium
   * New upstream release
 
  -- Jonathan Riddell <jriddell@ubuntu.com>  Tue, 09 Jun 2015 22:30:31 +0200
+
+libkmahjongg (4:14.12.3-2) unstable; urgency=medium
+
+  * Migrate to unstable.
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 01 Sep 2015 16:23:00 +0200
+
+libkmahjongg (4:14.12.3-1) experimental; urgency=medium
+
+  * New upstream release (14.12.3).
+
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 29 Mar 2015 15:12:55 +0200
 
 libkmahjongg (4:14.12.2-1) experimental; urgency=medium
 

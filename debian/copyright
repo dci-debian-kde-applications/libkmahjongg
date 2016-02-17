@@ -23,8 +23,11 @@ Copyright: 1997, Mathias Mueller <in5y158@public.uni-hamburg.de>
            2006, Mauricio Piacentini <mauricio@tabuleiro.com>
 License: GPL-2+
 
-Files: libkmahjongg_export.h
-Copyright: 2007, David Faure <faure@kde.org>
+Files: COPYING.LIB
+       libkmahjong_debug.cpp
+       libkmahjong_debug.h
+Copyright: 1991, Free Software Foundation, Inc
+           2014, Laurent Montel <montel@kde.org>
 License: LGPL-2+
 
 Files: backgrounds/chinese_landscape.*
@@ -32,6 +35,14 @@ Files: backgrounds/chinese_landscape.*
        tilesets/jade.*
 Copyright: 2006,2007, Eugene Trounev <eugene.trounev@gmail.com>
 License: GPL-2+
+
+Files: backgrounds/summerfield.svg
+Copyright: 2006,2007, Eugene Trounev <eugene.trounev@gmail.com>
+License: CC-BY-SA-3.0
+ This work is licensed under the Creative Commons Attribution-ShareAlike 3.0
+ Unported License. To view a copy of this license, visit
+ http://creativecommons.org/licenses/by-sa/3.0/ or send a letter to Creative
+ Commons, PO Box 1866, Mountain View, CA 94042, USA.
 
 Files: backgrounds/default_old.*
        backgrounds/wood_light.*

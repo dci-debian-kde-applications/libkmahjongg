@@ -1,4 +1,4 @@
-libkf5mahjongg (15.12.1-0ubuntu1) UNRELEASED; urgency=medium
+libkf5kmahjongg (15.12.1-0ubuntu1) UNRELEASED; urgency=medium
 
   [ Clive Johnston ]
   * New upstream release
@@ -7,6 +7,7 @@ libkf5mahjongg (15.12.1-0ubuntu1) UNRELEASED; urgency=medium
   * Debian merge: No remaining changes.
   * New upstream release. 
   * Fix changelog to reflect rename. 
+  * Fix rename typo.
 
  -- Clive Johnston <clivejo@aol.com>  Sat, 02 Jan 2016 14:34:27 +0000
 

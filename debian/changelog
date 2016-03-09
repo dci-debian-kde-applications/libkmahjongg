@@ -1,4 +1,4 @@
-libkf5kmahjongg (15.12.1-0ubuntu1) UNRELEASED; urgency=medium
+libkf5kmahjongg (15.12.1-0ubuntu1) xenial; urgency=medium
 
   [ Clive Johnston ]
   * New upstream release
@@ -9,7 +9,7 @@ libkf5kmahjongg (15.12.1-0ubuntu1) UNRELEASED; urgency=medium
   * Fix changelog to reflect rename. 
   * Fix rename typo.
 
- -- Clive Johnston <clivejo@aol.com>  Sat, 02 Jan 2016 14:34:27 +0000
+ -- Clive Johnston <clivejo@aol.com>  Wed, 09 Mar 2016 11:29:05 +0100
 
 libkmahjongg (4:15.08.2-0ubuntu2) xenial; urgency=medium
 

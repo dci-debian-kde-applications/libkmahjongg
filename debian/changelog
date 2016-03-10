@@ -1,3 +1,10 @@
+libkf5kmahjongg (4:15.12.1-0ubuntu2) xenial; urgency=medium
+
+  * Add the missing epoch back as the package uses the same binaries as
+    libkmahjongg 
+
+ -- Philip Muškovac <yofel@kubuntu.org>  Fri, 11 Mar 2016 00:27:47 +0100
+
 libkf5kmahjongg (4:15.12.1-0ubuntu1) xenial; urgency=medium
 
   [ Clive Johnston ]

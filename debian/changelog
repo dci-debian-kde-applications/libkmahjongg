@@ -1,3 +1,9 @@
+libkf5kmahjongg (4:15.12.2-0ubuntu1) UNRELEASED; urgency=medium
+
+  * New upstream bugfix release
+
+ -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 09 Mar 2016 22:24:42 -0800
+
 libkf5kmahjongg (4:15.12.1-0ubuntu2) xenial; urgency=medium
 
   * Add the missing epoch back as the package uses the same binaries as
@@ -17,12 +23,6 @@ libkf5kmahjongg (4:15.12.1-0ubuntu1) xenial; urgency=medium
   * Fix rename typo.
 
  -- Clive Johnston <clivejo@aol.com>  Wed, 09 Mar 2016 11:29:05 +0100
-
-libkf5kmahjongg (15.12.2-0ubuntu1) UNRELEASED; urgency=medium
-
-  * New upstream bugfix release
-
- -- Scarlett Clark <sgclark@kubuntu.org>  Wed, 09 Mar 2016 22:24:42 -0800
 
 libkmahjongg (4:15.08.2-0ubuntu2) xenial; urgency=medium
 

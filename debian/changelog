@@ -1,3 +1,11 @@
+libkf5kmahjongg (15.12.3-1~1.gbp5bcaa6) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @5bcaa60dff78367d97438ce89dd1a093dac4e5d5 **
+
+  * Bump Standards-Version to 3.9.8
+
+ -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 11:59:36 +0200
+
 libkf5kmahjongg (15.12.1-1) experimental; urgency=medium
 
   * New upstream release (15.12.1).

@@ -1,10 +1,11 @@
-libkf5kmahjongg (15.12.3-1~1.gbp5bcaa6) UNRELEASED; urgency=medium
+libkf5kmahjongg (16.04.0-1~1.gbpbd9caa) UNRELEASED; urgency=medium
 
-  ** SNAPSHOT build @5bcaa60dff78367d97438ce89dd1a093dac4e5d5 **
+  ** SNAPSHOT build @bd9caabc895a3cf67a92c8d27580c85d7455af88 **
 
   * Bump Standards-Version to 3.9.8
+  * UNRELEASED
 
- -- Automatic packaging <maxy+jenkins@gnuservers.com.ar>  Wed, 13 Apr 2016 11:59:36 +0200
+ -- Automatic packaging <jenkins@amadeus.gnuservers.com.ar>  Thu, 21 Apr 2016 01:55:18 +0200
 
 libkf5kmahjongg (15.12.1-1) experimental; urgency=medium
 

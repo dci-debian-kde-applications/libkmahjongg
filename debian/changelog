@@ -1,17 +1,15 @@
-libkf5kmahjongg (16.04.0-1~1.gbpbd9caa) UNRELEASED; urgency=medium
+libkf5kmahjongg (16.04.0-1) experimental; urgency=medium
 
-  ** SNAPSHOT build @bd9caabc895a3cf67a92c8d27580c85d7455af88 **
-
+  [ Automatic packaging ]
   * Bump Standards-Version to 3.9.8
-  * UNRELEASED
 
- -- Automatic packaging <jenkins@amadeus.gnuservers.com.ar>  Thu, 21 Apr 2016 01:55:18 +0200
-
-libkf5kmahjongg (15.12.2-1~) UNRELEASED; urgency=medium
-
+  [ Maximiliano Curia ]
   * New upstream release (15.12.2).
+  * Replace the "Historical name" ddeb-migration by its "Modern, clearer" replacement dbgsym-migration.
+  * Add upstream metadata (DEP-12)
+  * debian/control: Update Vcs-Browser and Vcs-Git fields
 
- -- Maximiliano Curia <maxy@debian.org>  Sat, 13 Feb 2016 09:48:17 +0100
+ -- Maximiliano Curia <maxy@debian.org>  Sun, 08 May 2016 09:31:10 +0200
 
 libkf5kmahjongg (15.12.1-1) experimental; urgency=medium
 

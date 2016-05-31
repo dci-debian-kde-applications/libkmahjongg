@@ -1,3 +1,9 @@
+libkf5kmahjongg (16.04.0-2) unstable; urgency=medium
+
+  * Release to unstable.
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 31 May 2016 14:29:36 +0200
+
 libkf5kmahjongg (16.04.0-1) experimental; urgency=medium
 
   [ Automatic packaging ]

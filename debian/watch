@@ -1,2 +1,4 @@
 version=3
-http://download.kde.org/stable/applications/([\d.]+)/src/libkmahjongg-([\d.]+).tar.xz
+# monitor only 14.12.x tarballs, since this source is only for
+# kde4-based games
+http://download.kde.org/Attic/applications/(14\.12\.[\d.]+)/src/libkmahjongg-([\d.]+).tar.xz

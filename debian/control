@@ -44,18 +44,6 @@ Description: development files for the KDE kmahjongg library
  .
  This package is part of the KDE games module.
 
-Package: libkmahjongglib4-dbg
-Architecture: any
-Priority: extra
-Section: debug
-Depends: kde-runtime-dbg,
-         libkmahjongglib4 (= ${binary:Version}),
-         ${misc:Depends}
-Description: debugging symbols for the KDE kmahjongg library
- This package contains the debugging symbols of the KDE kmahjongg library.
- .
- This package is part of the KDE games module.
-
 Package: kdegames-mahjongg-data
 Section: games
 Architecture: all

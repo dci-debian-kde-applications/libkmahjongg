@@ -4,6 +4,7 @@ libkmahjongg (4:14.12.3-3) UNRELEASED; urgency=medium
   * Update Vcs-* fields.
   * Remove extra XS-Testsuite field.
   * Update watch file to monitor only old 14.12.x tarballs.
+  * Bump Standards-Version to 3.9.8, no changes required.
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 07 Jun 2016 06:58:51 +0200
 

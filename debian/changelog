@@ -1,3 +1,11 @@
+libkf5kmahjongg (16.08.0-1~1.gbp446a77) UNRELEASED; urgency=medium
+
+  ** SNAPSHOT build @446a77728a5e16ff2a7cf676aa83cd336bc3eb04 **
+
+  * UNRELEASED
+
+ -- Maximiliano Curia <jenkins@gnuservers.com.ar>  Thu, 18 Aug 2016 19:55:38 +0200
+
 libkf5kmahjongg (16.04.0-2) unstable; urgency=medium
 
   * Release to unstable.

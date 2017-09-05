@@ -1,3 +1,11 @@
+libkf5kmahjongg (4:17.08.0-1~) UNRELEASED; urgency=medium
+
+  * New upstream release (17.08.0)
+  * Bump Standards-Version to 4.1.0.
+  * Update upstream metadata
+
+ -- Maximiliano Curia <maxy@debian.org>  Tue, 05 Sep 2017 13:57:59 +0200
+
 libkf5kmahjongg (4:17.08.0-0neon) xenial; urgency=medium
 
   * New release

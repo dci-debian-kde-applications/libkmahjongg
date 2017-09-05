@@ -30,6 +30,8 @@ Vcs-Git: https://anonscm.debian.org/git/pkg-kde/applications/libkmahjongg.git
 Package: libkf5kmahjongglib5
 Architecture: any
 Depends: ${misc:Depends}, ${shlibs:Depends}
+Breaks: ${kde-l10n:all}
+Replaces: ${kde-l10n:all}
 Description: shared library for kmahjongg and kshisen
  This package contains a shared library used by the KDE games kmahjongg and
  kshisen.

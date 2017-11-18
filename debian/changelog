@@ -1,10 +1,13 @@
-libkf5kmahjongg (4:17.08.0-1~1) UNRELEASED; urgency=medium
+libkf5kmahjongg (4:17.08.3-1~1) UNRELEASED; urgency=medium
 
   [ Maximiliano Curia ]
   * New upstream release (17.08.0)
   * Bump Standards-Version to 4.1.0.
   * Update upstream metadata
   * Update uploaders list as requested by MIA team (Closes: #879392)
+
+  [ Pino Toscano ]
+  * New upstream release.
 
  -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 31 Oct 2017 18:03:41 +0100
 

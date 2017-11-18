@@ -1,4 +1,6 @@
-libkf5kmahjongg (4:17.08.3-1~1) UNRELEASED; urgency=medium
+libkf5kmahjongg (4:17.08.3-1) unstable; urgency=medium
+
+  * Team upload.
 
   [ Maximiliano Curia ]
   * New upstream release (17.08.0)
@@ -13,7 +15,7 @@ libkf5kmahjongg (4:17.08.3-1~1) UNRELEASED; urgency=medium
   * Bump Standards-Version to 4.1.1, no changes required.
   * Simplify watch file, and switch it to https.
 
- -- Debian/Kubuntu Qt/KDE Maintainers <debian-qt-kde@lists.debian.org>  Tue, 31 Oct 2017 18:03:41 +0100
+ -- Pino Toscano <pino@debian.org>  Sat, 18 Nov 2017 09:46:29 +0100
 
 libkf5kmahjongg (4:17.08.0-0neon) xenial; urgency=medium
 
